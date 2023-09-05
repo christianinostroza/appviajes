@@ -1,0 +1,102 @@
+[{
+    "id": 1,
+    "nombre": "Desierto",
+    "Viaje": "Desierto Florido",
+    "imagenUrl": "assets/desierto.jpg",
+    "valor": 105374,
+    "distanciaMetros": 53955,
+    "tipos": [
+        "petLover"
+    ]
+}, {
+    "id": 2,
+    "nombre": "Playa",
+    "Viaje": "Playa Solitaria",
+    "imagenUrl": "assets/beach.jpg",
+    "valor": 1257902,
+    "distanciaMetros": 91784,
+    "tipos": [
+        "sin hijos",
+        "con hijos"
+    ]
+}, {
+    "id": 3,
+    "nombre": "Valles",
+    "Viaje": "Valles Eternos",
+    "imagenUrl": "assets/valles.jpg",
+    "valor": 442610,
+    "distanciaMetros": 10942,
+    "tipos": [
+        "con hijos"
+    ]
+}, {
+    "id": 4,
+    "nombre": "Sorprendeme",
+    "Viaje": "La Sorpresa de Altura",
+    "imagenUrl": "assets/montanas.jpg",
+    "valor": 168431,
+    "distanciaMetros": 5711,
+    "tipos": [
+        "petLover"
+    ]
+}, {
+    "id": 5,
+    "nombre": "Valles",
+    "Viaje": "Ideal para Camninatas",
+    "imagenUrl": "assets/valles.jpg",
+    "valor": 406905,
+    "distanciaMetros": 65980,
+    "tipos": [
+        "con hijos"
+    ]
+}, {
+    "id": 6,
+    "nombre": "Playa",
+    "Viaje": "Aguas Turquesas",
+    "imagenUrl": "assets/beach.jpg",
+    "valor": 671340,
+    "distanciaMetros": 99617,
+    "tipos": [
+        "sin hijos"
+    ]
+}, {
+    "id": 7,
+    "nombre": "Sorprendeme",
+    "Viaje": "Te animas a disfrutar del frio",
+    "imagenUrl": "assets/nieve.jpg",
+    "valor": 352468,
+    "distanciaMetros": 15377,
+    "tipos": [
+        "solter@s"
+    ]
+}, {
+    "id": 8,
+    "nombre": "Desierto",
+    "Viaje": "A navegar en las arenas",
+    "imagenUrl":"assets/desierto.jpg",
+    "valor": 765823,
+    "distanciaMetros": 37782,
+    "tipos": [
+        "solter@s"
+    ]
+}, {
+    "id": 9,
+    "nombre": "Montaña",
+    "Viaje": "Cada vez llega mas Alto",
+    "imagenUrl": "assets/montanas.jpg",
+    "valor": 333487,
+    "distanciaMetros": 91614,
+    "tipos": [
+        "parejas"
+    ]
+}, {
+    "id": 10,
+    "nombre": "Nieve",
+    "Viaje": "Ideal para disfrutar en pareja",
+    "imagenUrl": "assets/nieve.jpg",
+    "valor": 471379,
+    "distanciaMetros": 34991,
+    "tipos": [
+        "sin hijos"
+    ]
+}]
